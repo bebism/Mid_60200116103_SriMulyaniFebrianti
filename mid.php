@@ -1,0 +1,5 @@
+<?php
+	$a ;= "Hello word";
+	echo "$a";
+
+?>
